@@ -4,14 +4,13 @@
 ## Screenshot
 ![Screenshot of the program](images/snake.png?raw=true "Screenshot of the program")
 
-## Author notes.
-I wrote this (and the Tree and Stack Recursion program) during my first year at the university. \
-The code can be improved but i think it´s good to leav it the way they were made. \
-With some pointer operations some code could be simplified, for example when adding a new piece to the snake.
+## Author notes
+I wrote this game during my first year at the University back in 2017. The code can be improved but i think it's good to leave it the way it was made. With some pointer operations some code could be simplified, for example when adding a new piece to the snake.
 
 ## Compiling
+I compiled using GNATMAKE 7.5.0
 ```
-gnatmake ./snake.adb
+$ gnatmake ./snake.adb
 ```
 
 ## Runtime
